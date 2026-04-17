@@ -1,4 +1,4 @@
-# Project Name: Nia Mia E-Commerce Catalog Scraper
+# Nia Mia E-Commerce Catalog Scraper
 
 ### 1. Project Overview
 * **Target Website:** [https://niamiaofficial.com](https://niamiaofficial.com)
